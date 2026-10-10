@@ -1,6 +1,6 @@
 {
   "name": "@orellbuehler/search-console-mcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Model Context Protocol server for Google Search Console: query search analytics (clicks, impressions, CTR, position), manage sitemaps and properties, and inspect URL index status over the official Search Console API.",
   "type": "module",
   "bin": {
